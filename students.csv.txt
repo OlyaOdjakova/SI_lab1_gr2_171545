@@ -1,0 +1,5 @@
+178723, Stojan, Mitrevski, 6, 7, 6
+165234, Mitra, Petkova, 9, 6, 10
+123111, Nikica Petkovski, 8, 8, 6
+163452, Jovana, Jovanova, 9, 9, 7
+152435, Igor, Stojkovski, 6, 6, 10
